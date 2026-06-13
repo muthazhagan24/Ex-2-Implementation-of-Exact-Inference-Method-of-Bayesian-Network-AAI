@@ -2,7 +2,7 @@
 
 <H1 ALIGN=CENTER> Experiment-2: Implementation of Exact Inference Method of Bayesian Network</H1>
 
-### Name: SRI MUTHAZHAGAN P
+### Name: Sri muthazhagan P
 ### Register Number: 2305002024
 
 ## Aim:
